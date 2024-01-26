@@ -1,0 +1,5 @@
+Analysis - Pandas Challenge
+
+The first trend that I noticed is that as the spending range per student increased, average scores for both math and reading, as well as the percentage of students passing math and reading, trended downwards. 
+
+The second thing I noticed is overall, charter schools performed much better than district school in all areas. This can be noted by the fact that the charter schools had significantly less students on average than the district schools did. This could be for a number fo reasons such as lack of personal one on one time with instructors, or a more personalized lesson plan. Ironically, these districts schhols with more students, also tended to have a larger per student budget. Which goes back to the first obersavation. 
